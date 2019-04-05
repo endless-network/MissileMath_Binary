@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Missile Math
+Comment=A plane flying shooter game.
+Exec=com.endlessnetwork.missilemath.sh
+Icon=com.endlessnetwork.missilemath
+Terminal=false
+Type=Application
+Categories=Game;

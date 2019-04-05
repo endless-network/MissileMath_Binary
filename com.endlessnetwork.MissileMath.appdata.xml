@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.endlessnetwork.missilemath</id>
+  <name>Missile Math</name>
+  <project_license>LicenseRef-proprietary</project_license>
+  <categories>
+    <category>Game</category>
+  </categories>
+  <developer_name>Endless Network</developer_name>
+  <summary>A plane flying shooter game</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <launchable type="desktop-id">com.endlessnetwork.missilemath.desktop</launchable>
+  <url type="homepage">https://thethirdterminal.com</url>
+  <description>
+    <p>Test your aerial maneuvers to be the best pilot in the skies. Blast enemy airplanes and avoid rapid fire while flying. Play Math Mode to outwit your enemies using your quick number and computational skills.</p>
+  </description>
+  <releases>
+		<release version="1.0" date="2019-04-05"/>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/endless-network/MissileMath_Binary/raw/master/ss3.jpg</image>
+	<caption>Shoot all the enemies</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/endless-network/MissileMath_Binary/raw/master/ss1.jpg</image>
+    </screenshot>
+    <screenshot type="default">
+        <image>https://github.com/endless-network/MissileMath_Binary/raw/master/ss2.jpg</image>
+        <caption>Multiple math types</caption>
+    </screenshot>
+  </screenshots>
+    <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">moderate</content_attribute>
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+  </content_rating>
+  <update_contact>nan_at_endlessnetwork.com</update_contact>
+</component>

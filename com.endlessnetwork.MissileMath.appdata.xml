@@ -2,7 +2,7 @@
 <component type="desktop">
   <id>com.endlessnetwork.missilemath</id>
   <name>Missile Math</name>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://github.com/endless-network/MissileMath_Binary/raw/refs/heads/master/LICENSE</project_license>
   <categories>
     <category>Game</category>
   </categories>
